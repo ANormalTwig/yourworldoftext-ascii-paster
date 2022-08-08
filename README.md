@@ -4,11 +4,15 @@ NodeJS script to paste any ascii art onto https://www.yourworldoftext.com/
 
 # Usage
 
-`node main.js`
+```
+node main.js
+```
 
-art.txt is the file thats pasted
+`art.txt` is the file thats pasted
 
 # Config
+
+`config.json`
 
 | Option      | Description    |
 | ----------- | -------------- |
